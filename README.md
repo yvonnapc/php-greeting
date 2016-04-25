@@ -1,6 +1,6 @@
 # _Greeting App_
 
-#### An app that sends a greeting | February 9, 2016
+#### An app that sends a customized greeting | February 9, 2016
 
 #### By: Yvonna Contreras 
 
@@ -27,7 +27,7 @@ N/A
 
 ## Support and contact details
 
-If you have any issues, questions, ideas, or concerns contact me through GitHUb. If you would like to make a contribution to the code, feel free to do so and notify me by e-mail.
+If you have any issues, questions, ideas, or concerns contact me through GitHub. If you would like to make a contribution to the code, feel free to do so and notify me by e-mail.
 
 ## Technologies Used
 
